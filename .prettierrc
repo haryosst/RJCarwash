@@ -1,0 +1,7 @@
+{
+    "plugins": ["prettier-plugin-blade"],
+    "useTabs": false,
+    "tabWidth": 4,
+    "endOfLine": "lf"
+}
+  
